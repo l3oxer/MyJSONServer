@@ -1,11 +1,6 @@
 {
     "Location" : "Germany",
-    "NumberOfEmployees" : 5,
+    "NumberOfEmployees" : 5
 
-   "array" : [
-        {"Location" : "Germany",
-            "x" : 5},
-            {"Location" : "Germany",
-                "x" : 5}
-    ]
+  
 } 
