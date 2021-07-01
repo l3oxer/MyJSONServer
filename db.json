@@ -1,6 +1,4 @@
 {
-    "Location" : "Germany",
-    "NumberOfEmployees" : "5"
-
-  
-} 
+	"Location":"Germany",
+	"NumberOfEmployees":"5"
+}
